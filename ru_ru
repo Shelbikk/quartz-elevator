@@ -1,0 +1,10 @@
+{
+  "itemGroup.quartzelv.quartz_elevator": "Лифт из кварца",
+  "block.quartzelv.quartz_elevator": "Лифт из кварца",
+  "block.quartzelv.smooth_quartz_elevator": "Лифт из гладкого кварца",
+  "text.autoconfig.quartzelv.title": "Лифт из кварца",
+  "text.autoconfig.quartzelv.option.quartzElevatorDistance": "Максимальная дистанция Лифта из кварца",
+  "text.autoconfig.quartzelv.option.smoothQuartzElevatorDistance": "Максимальная дистанция Лифта из гладкого кварца",
+  "text.autoconfig.quartzelv.option.mixTypes": "Перемещение между различными типами Лифтов",
+  "text.autoconfig.quartzelv.option.isPlayerOnly": "Только для Игрока"
+}
